@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakubKudlicki
 - 👀 I’m interested in programming and 3d printing
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently working as .Net Developer
 
 
 <!---
